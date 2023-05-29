@@ -1,0 +1,3 @@
+==2023-05-29 bowen jc
+python3 -m to_pip -n generate-invitation-codes -v 1.0.0
+第一次提供套件

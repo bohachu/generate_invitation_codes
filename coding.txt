@@ -1,3 +1,7 @@
 ==2023-05-29 bowen jc
+python3 -m to_pip -n generate-invitation-codes -v 1.0.1 generate_invitation_codes.py
+讓 README.md 前面有斷行，同時公告全公司可以用
+
+==2023-05-29 bowen jc
 python3 -m to_pip -n generate-invitation-codes -v 1.0.0
 第一次提供套件
